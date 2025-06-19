@@ -68,7 +68,7 @@ With the growing used car market, pricing a car fairly is crucial for both buyer
 
 ## 🤝 Credits
 
-Dataset: [Kaggle - Car Details Dataset](https://www.kaggle.com/datasets/)
+Dataset: [[Kaggle - Car Details Dataset](https://www.kaggle.com/datasets/)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?resource=download)
 
 Project by: Shravani Loke
 
