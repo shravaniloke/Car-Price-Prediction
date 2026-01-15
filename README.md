@@ -1,4 +1,3 @@
-# Car-Price-Prediction
 # 🚗 Car Price Prediction using Machine Learning
 
 This project uses a dataset of used cars to build a machine learning model that predicts car prices based on features like year, fuel type, seller type, transmission, and more.
